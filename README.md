@@ -1,2 +1,1 @@
-End-To-End ML_Project_1
-
+End-To-End ML_Project_1: Azure Deployment

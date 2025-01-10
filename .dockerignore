@@ -1,0 +1,39 @@
+# # Exclude large datasets, logs, and temporary files
+# Notebook/
+# logs/
+# catboost_info/
+
+# # Exclude Jupyter notebook checkpoints
+# .ipynb_checkpoints/
+
+# # Exclude unnecessary files
+# .gitignore
+
+
+# Exclude large datasets, logs, and temporary files
+Notebook/
+logs/
+catboost_info/
+
+# Exclude editor-related files
+*.swp
+*.bak
+
+# Exclude version control files
+.git
+
+# Exclude Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Exclude environment and virtual environment files
+.venv/
+.env
+*.env
+
+# Exclude Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+#readme file...
+README.md
+*.md
